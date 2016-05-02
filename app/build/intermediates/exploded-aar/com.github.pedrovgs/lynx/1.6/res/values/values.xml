@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FF888888</color>
+    <color name="white">#FFFFFFFF</color>
+    <declare-styleable name="lynx"><attr format="integer" name="max_traces_to_show"/><attr format="string" name="filter"/><attr format="dimension" name="text_size"/><attr format="integer" name="sampling_rate"/></declare-styleable>
+    <!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="divider_height">0dp</dimen>
+    <dimen name="filter_edit_text_padding">4dp</dimen>
+    <dimen name="filter_layout_height">40dp</dimen>
+    <dimen name="trace_font_size">12sp</dimen>
+    <dimen name="trace_padding">4dp</dimen>
+    <!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="et_filter_hint_text">Logcat filter</string>
+    <!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="DropDown">
+    <item name="android:paddingLeft">6dip</item>
+    <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+    <item name="android:gravity">center_vertical</item>
+  </style>
+    <style name="Spinner" parent="@android:style/Widget.Spinner"/>
+</resources>

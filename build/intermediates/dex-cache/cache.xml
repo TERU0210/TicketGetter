@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\com.github.pedrovgs\lynx\1.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="102474f57951757ec8d76005784664b778e487c7">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\classes-6f8664767fc8d66be8a672725146075c3aed1a5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.mobsandgeeks\android-saripaar\2.0.2\73d121ae26214e5dddcfc535cb24d79d76349d10\android-saripaar-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73d121ae26214e5dddcfc535cb24d79d76349d10">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\android-saripaar-2.0.2-1279826aaf6cf89d4f999fb5e55a4927c1d14b5e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\classes-e2311906851b750c52bf33b86ec30bd8472ae2f6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\classes-726b03b89f16f56180733a83ab3e1f968f7869ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.jakewharton.hugo\hugo-annotations\1.2.1\b01150795c5cdca1eb7e501bf00f105ff0e31501\hugo-annotations-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\hugo-annotations-1.2.1-9c210d32364d2a5de2d9e1514dc303c0bfe16f40.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\mail-9bbfc9c8defeba2777a19fe806bee59e05834d77.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1-8fa5293d22411cd4b044a3fa3a7ed2692159af67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-86c82b642838d01cd3d846d80e47dc49f69d1918.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0-SNAPSHOT\c6387ede215926b377e812c35906f5bd0eec84f0\guava-20.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6387ede215926b377e812c35906f5bd0eec84f0">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\guava-20.0-SNAPSHOT-a536d66ff2128db4ce499e72e6f746b9e07880a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\4.1.0-SNAPSHOT\60d09570668ef5ba786375d0b0255be0dd509add\androidannotations-api-4.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="60d09570668ef5ba786375d0b0255be0dd509add">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\androidannotations-api-4.1.0-SNAPSHOT-68d1fd6507ee9593f4ed8ea03e280973391310b9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\com.apkfuns.logutils\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0a9eac35dfb51cb56aee0b0b5a5df130cd19e666">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\classes-4963d282a1c330c04501004ec3253029e3128472.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.1\3dc0a3bea4f876c54846cd050e688f1bfc78fc96\jsoup-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3dc0a3bea4f876c54846cd050e688f1bfc78fc96">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\jsoup-1.9.1-9e6c06201231ac8e57d6732a1f9b390b42e2b047.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.0-22a96e733e9ce5ab215c32c6f46675a4ffec36ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0-7a8ab04f1ca4baecac53b57efaee35d0b05292c6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\classes-5670b9c2188042e719878f64bb36e8400a231144.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-c7362d1ea96da0ef4660b21e3cebe652d3affa48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup\seismic\1.0.1\c4c8bd6911ef28f2ea8d3719332d42401d2be63a\seismic-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c4c8bd6911ef28f2ea8d3719332d42401d2be63a">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\seismic-1.0.1-2c6a7891247d525589f703569150884218764b47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\3.0.0-SNAPSHOT\57154ac5a08fa435e3a0b23486678514b495e443\okhttp-3.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57154ac5a08fa435e3a0b23486678514b495e443">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\okhttp-3.0.0-SNAPSHOT-c4504db88e8adbfa6360ec67448bcd2ba2963cca.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\libs\commons-lang3-3.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\commons-lang3-3.4-b607b2aef82e609523ce3c00c13670363a6d2922.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\activation-791eb4c63d328d1713208638a7b9347262e7259a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-0dab550717daaa39038e18a12569b8e6e59c66a3.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-ff5e91e0a3b835dca127c65942ba616b595acf52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.5\39a8ff2d1f79267907f5573c090b342b040b9682\aspectjrt-1.8.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\aspectjrt-1.8.5-01d90897426cb010ef1927a565f6cd9f553a9082.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\additionnal-efe1d15f8af72f1f1223f645af27f7cb42b171d2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidTemplete-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\classes-c410d411772c0dab293b672bc1801ec5cfec47b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.github.pedrovgs\renderers\1.4\67ca10b9f5de87d276e0d3136b6853e2ea480795\renderers-1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="67ca10b9f5de87d276e0d3136b6853e2ea480795">
+        <dex dex="E:\AndroidTemplete-master\app\build\intermediates\pre-dexed\debug\renderers-1.4-8994329a8b4c8e8286e3f6f5056607702b7bf370.jar" />
+    </item>
+
+</items>

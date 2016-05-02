@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="DropDown">
+    <item name="android:paddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
+    <item name="android:paddingRight">?android:attr/listPreferredItemPaddingRight</item>
+    <item name="android:minHeight">?android:attr/listPreferredItemHeightSmall</item>
+    <item name="android:textColor">@android:color/white</item>
+    <item name="android:gravity">center_vertical</item>
+  </style>
+    <style name="Spinner" parent="@android:style/Widget.Holo.Spinner"/>
+</resources>
