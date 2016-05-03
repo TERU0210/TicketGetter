@@ -110,20 +110,13 @@ public class TimerReceiver extends BroadcastReceiver{
                     Ticket ticket = new Ticket(artist,element);
 
                     //** Filter **/
+                    ExclusiveFilter filter = new ExclusiveFilter(context);
+
                     // price
                     if(ticket.getPrice() > 15000) continue;
 
                     // title
-                    String excludeTitles = context.getString(R.string.excludeTitle);
-                    String title = ticket.getTitle();
-                    LogUtils.d("excludeTitles = " + excludeTitles);
-                    LogUtils.d("title = " + title);
-                    for(String t : excludeTitles.split(",")) {
-                        if(title.indexOf(t) >= 0) {
-                            flag = true;
-                            break;
-                        }
-                    }
+                    flag = filter.isExclusiveTitle(ticket.getTitle());
 
                     // place
                     if(ticket.getPlace().indexOf("東京") < 0 && ticket.getPlace().indexOf("神奈川") < 0 && ticket.getPlace().indexOf("千葉") < 0  && ticket.getPlace().indexOf("埼玉") < 0) continue;
@@ -193,7 +186,11 @@ public class TimerReceiver extends BroadcastReceiver{
         Preconditions.checkNotNull(artist);
         Preconditions.checkNotNull(name);
 
-        List<TicketEntity> tickets = new Select().from(TicketEntity.class).where("artist = ? and state = ? ", artist,"NEW").execute();
+        List<TicketEntity> tickets = new Select().from(TicketEntity.class)
+                .where("artist = ? and state = ? ", artist, "NEW")
+                .orderBy("Title ASC")
+                .orderBy("Price ASC")
+                .execute();
         if(tickets.size() > 0) {
             sendMail(name,tickets);
         }
@@ -202,7 +199,11 @@ public class TimerReceiver extends BroadcastReceiver{
     @DebugLog
     @Background
     void removeTicket(String artist) {
-        List<TicketEntity> tickets = new Select().from(TicketEntity.class).where("artist = ?", artist).execute();
+        List<TicketEntity> tickets = new Select().from(TicketEntity.class)
+                .where("artist = ?", artist)
+                .orderBy("Title ASC")
+                .orderBy("Price ASC")
+                .execute();
 
         if(tickets.size() <= 0) {
             return;

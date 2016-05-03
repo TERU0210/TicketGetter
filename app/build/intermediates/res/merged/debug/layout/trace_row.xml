@@ -21,4 +21,4 @@
     android:padding="@dimen/trace_padding"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:textSize="@dimen/trace_font_size"/><!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/layout/trace_row.xml --><!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/layout/trace_row.xml -->
+    android:textSize="@dimen/trace_font_size"/><!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/layout/trace_row.xml --><!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/layout/trace_row.xml -->

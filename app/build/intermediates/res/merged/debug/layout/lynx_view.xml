@@ -86,4 +86,4 @@
       android:stackFromBottom="true"
       android:layout_above="@id/filter"/>
 
-</merge><!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/layout/lynx_view.xml --><!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/layout/lynx_view.xml -->
+</merge><!-- From: file:/Users/pedro/Development/Projects/android/Lynx/lynx/src/main/res/layout/lynx_view.xml --><!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/layout/lynx_view.xml -->

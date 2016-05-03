@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -23,10 +23,10 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <color name="black">#FF000000</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -36,12 +36,12 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -49,10 +49,10 @@
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <color name="gray">#FF888888</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
@@ -88,7 +88,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <color name="white">#FFFFFFFF</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -119,7 +119,7 @@
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="lynx"><attr format="integer" name="max_traces_to_show"/><attr format="string" name="filter"/><attr format="dimension" name="text_size"/><attr format="integer" name="sampling_rate"/></declare-styleable>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -181,11 +181,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/E:/AndroidTemplete-master/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -193,12 +193,12 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <dimen name="divider_height">0dp</dimen>
     <dimen name="filter_edit_text_padding">4dp</dimen>
     <dimen name="filter_layout_height">40dp</dimen>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
@@ -206,11 +206,11 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <dimen name="trace_font_size">12sp</dimen>
     <dimen name="trace_padding">4dp</dimen>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -244,24 +244,24 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/E:/AndroidTemplete-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">AndroidTemplete</string>
+    <string name="app_name">TicketGetter</string>
     <string name="artist">uchida-maya:内田真礼のライブチケット一覧,angela:angela(アンジェラ)のライブチケット一覧,suzakinishi:洲崎西のチケット一覧,lovelive:ラブライブ(μ’s)のライブチケット一覧,nishi-asuka:西明日香のチケット一覧,horie-yui:堀江由衣のライブチケット一覧,mizuki-nana:水樹奈々のライブチケット一覧,category-32817:田村ゆかり 神楽坂ゆかのライブチケット一覧,yuikaori:ゆいかおりのライブチケット一覧,ogura-yui:小倉唯のライブチケット一覧,nanjoyoshino:南條愛乃のライブチケット一覧,haruna-luna:春奈るなのライブチケット一覧,mimori-suzuko:三森すずこのライブチケット一覧,sakakibara-yui:榊原ゆいのチケット一覧,sasaki-sayaka:佐咲紗花のライブチケット一覧,maon:黒崎真音のライブチケット一覧,hashimoto-miyuki:橋本みゆきのライブチケット一覧,yozuca:yozuca*のチケット一覧,petit-milady:プチミレディのチケット一覧,fripside:fripSideのライブチケット一覧,category-30603:ジャムプロジェクトのライブチケット一覧,ray:Rayのライブチケット一覧,kalafina:Kalafina (カラフィナ)のライブチケット一覧,glay:GLAY(グレイ)のライブチケット一覧,ceui:Ceuiのライブチケット一覧,minase-inori:水瀬いのりのチケット一覧,uchida-aya:内田彩のライブチケット一覧,komatsu-mikako:小松未可子のライブチケット一覧,misato-aki:美郷あきのライブチケット一覧,kubo-yurika:久保ユリカのチケット一覧,ohashi-ayaka:大橋彩香のチケット一覧,kayano-ai:茅野愛衣のライブチケット一覧,kitadani-hiroshi:きただにひろしのライブチケット一覧,kusuda-aina:楠田亜衣奈のチケット一覧</string>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <string name="et_filter_hint_text">Logcat filter</string>
-    <!-- From: file:/E:/AndroidTemplete-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="excludeTitle">舞台挨拶,シンフォギア,女子限定,ライブビューイング,Animelo Summer Live,幻影異聞録</string>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <string name="excludeTitle">舞台挨拶,シンフォギア,女子限定,ライブビューイング,Animelo Summer Live,幻影異聞録,ミルキィホームズ,スーパーロボット大戦,蒼穹のファフナー,情熱大陸</string>
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/E:/AndroidTemplete-master/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -269,7 +269,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1184,14 +1184,14 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <style name="DropDown">
     <item name="android:paddingLeft">6dip</item>
     <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
     <item name="android:gravity">center_vertical</item>
   </style>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1333,10 +1333,10 @@
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
         <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
     </style>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values/values.xml -->
     <eat-comment/>
     <style name="Spinner" parent="@android:style/Widget.Spinner"/>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
@@ -54,7 +54,7 @@
     </style>
     <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="android:Widget.Holo.ProgressBar.Horizontal">
     </style>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values-v11/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="DropDown">
     <item name="android:paddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
@@ -63,7 +63,7 @@
     <item name="android:textColor">@android:color/white</item>
     <item name="android:gravity">center_vertical</item>
   </style>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="Platform.V11.AppCompat"/>
     <style name="Platform.AppCompat.Light" parent="Platform.V11.AppCompat.Light"/>
@@ -171,7 +171,7 @@
         <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Holo.Spinner"/>
-    <!-- From: file:/E:/AndroidTemplete-master/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values-v11/values.xml -->
+    <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.github.pedrovgs/lynx/1.6/res/values-v11/values.xml -->
     <eat-comment/>
     <style name="Spinner" parent="@android:style/Widget.Holo.Spinner"/>
 </resources>
