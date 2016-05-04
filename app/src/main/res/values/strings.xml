@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">TicketGetter</string>
-    <string name="excludeTitle">舞台挨拶,シンフォギア,女子限定,ライブビューイング,Animelo Summer Live,幻影異聞録,ミルキィホームズ,スーパーロボット大戦,蒼穹のファフナー,情熱大陸</string>
+    <string name="excludeTitle">舞台挨拶,シンフォギア,女子限定,ライブビューイング,Animelo Summer Live,幻影異聞録,ミルキィホームズ,スーパーロボット大戦,蒼穹のファフナー,情熱大陸,文化祭,ノラガミ</string>
     <string name="artist">uchida-maya:内田真礼のライブチケット一覧,angela:angela(アンジェラ)のライブチケット一覧,suzakinishi:洲崎西のチケット一覧,lovelive:ラブライブ(μ’s)のライブチケット一覧,nishi-asuka:西明日香のチケット一覧,horie-yui:堀江由衣のライブチケット一覧,mizuki-nana:水樹奈々のライブチケット一覧,category-32817:田村ゆかり 神楽坂ゆかのライブチケット一覧,yuikaori:ゆいかおりのライブチケット一覧,ogura-yui:小倉唯のライブチケット一覧,nanjoyoshino:南條愛乃のライブチケット一覧,haruna-luna:春奈るなのライブチケット一覧,mimori-suzuko:三森すずこのライブチケット一覧,sakakibara-yui:榊原ゆいのチケット一覧,sasaki-sayaka:佐咲紗花のライブチケット一覧,maon:黒崎真音のライブチケット一覧,hashimoto-miyuki:橋本みゆきのライブチケット一覧,yozuca:yozuca*のチケット一覧,petit-milady:プチミレディのチケット一覧,fripside:fripSideのライブチケット一覧,category-30603:ジャムプロジェクトのライブチケット一覧,ray:Rayのライブチケット一覧,kalafina:Kalafina (カラフィナ)のライブチケット一覧,glay:GLAY(グレイ)のライブチケット一覧,ceui:Ceuiのライブチケット一覧,minase-inori:水瀬いのりのチケット一覧,uchida-aya:内田彩のライブチケット一覧,komatsu-mikako:小松未可子のライブチケット一覧,misato-aki:美郷あきのライブチケット一覧,kubo-yurika:久保ユリカのチケット一覧,ohashi-ayaka:大橋彩香のチケット一覧,kayano-ai:茅野愛衣のライブチケット一覧,kitadani-hiroshi:きただにひろしのライブチケット一覧,kusuda-aina:楠田亜衣奈のチケット一覧</string>
 </resources>

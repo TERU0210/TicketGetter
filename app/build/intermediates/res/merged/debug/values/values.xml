@@ -253,7 +253,7 @@
     <string name="et_filter_hint_text">Logcat filter</string>
     <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="excludeTitle">舞台挨拶,シンフォギア,女子限定,ライブビューイング,Animelo Summer Live,幻影異聞録,ミルキィホームズ,スーパーロボット大戦,蒼穹のファフナー,情熱大陸</string>
+    <string name="excludeTitle">舞台挨拶,シンフォギア,女子限定,ライブビューイング,Animelo Summer Live,幻影異聞録,ミルキィホームズ,スーパーロボット大戦,蒼穹のファフナー,情熱大陸,文化祭,ノラガミ</string>
     <!-- From: file:/C:/Users/Admin/Documents/TicketGetter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
